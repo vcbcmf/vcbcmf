@@ -1,8 +1,8 @@
 # Code usage
 
 The code in this directory reproduces the results of the paper Estimating
-Heterogeneous Causal Mediation Effects with Bayesian Decision Tree Ensembles by
-Ting and Linero (2023). This directory is organized with function definitions in
+Heterogeneous Causal Mediation Effects with Bayesian Decision Tree Ensembles. 
+This directory is organized with function definitions in
 the `lib/` folder and scripts to reproduce figures in the `src/` directory. The
 files in `src/` are organized such that one simply needs to run the files in
 alphabetical order to reproduce all of the results in the paper. So, for
